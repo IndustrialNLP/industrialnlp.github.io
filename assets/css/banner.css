@@ -1,34 +1,34 @@
 /* 1. Define Variables (Safe to keep global) */
 :root {
-  --shroom-bg: #FFF5F7;
-  --shroom-pattern: #FFE4EC;
-  --shroom-accent: #2D1B2E;
-  --shroom-muted: #8A7A8B;
-  --shroom-text: #FF85A2;
-  --shroom-shadow: #CDB4DB;
-  --shroom-border: 4px;
+  --inlp-bg: #EAF1F7;
+  --inlp-pattern: #D8E4EF;
+  --inlp-accent: #1E2A36;
+  --inlp-muted: #5E7488;
+  --inlp-text: #3F87AF;
+  --inlp-shadow: #9FB1C2;
+  --inlp-border: 4px;
 }
 
 
 /* 2. WRAPPER: Apply background/fonts ONLY to the banner container, not the whole page */
-.shroom-banner-wrapper {
+.inlp-banner-wrapper {
   max-width: none;
   margin: 2rem auto 2rem auto;
-  background-color: var(--shroom-bg);
-  background-image: radial-gradient(var(--shroom-pattern) 15%, transparent 16%);
+  background-color: var(--inlp-bg);
+  background-image: radial-gradient(var(--inlp-pattern) 15%, transparent 16%);
   background-size: 20px 20px;
-  border: var(--shroom-border) solid var(--shroom-accent);
-  box-shadow: 8px 8px 0px var(--shroom-shadow);
+  border: var(--inlp-border) solid var(--inlp-accent);
+  box-shadow: 8px 8px 0px var(--inlp-shadow);
   overflow: hidden;
   position: relative;
-  
+
   /* Font settings ONLY for inside the banner */
-  font-family: 'VT323', monospace; 
-  color: var(--shroom-accent);
+  font-family: 'VT323', monospace;
+  color: var(--inlp-accent);
 }
 
-.shroom-banner-wrapper .banner-text-area h2 {
-  color: var(--shroom-text);
+.inlp-banner-wrapper .banner-text-area h2 {
+  color: var(--inlp-text);
 }
 
 /* 3. BANNER LAYOUT */
@@ -50,7 +50,7 @@
 .banner-text-area h2 {
   font-family: 'Press Start 2P', cursive !important; /* Force the pixel font */
   font-size: 1.2rem;
-  color: var(--shroom-text);
+  color: var(--inlp-text);
   margin-bottom: 0.8rem;
   line-height: 1.4;
   text-transform: uppercase;
@@ -59,7 +59,7 @@
 .banner-text-area p {
   font-family: 'VT323', monospace;
   font-size: 1.5rem;
-  color: var(--shroom-muted);
+  color: var(--inlp-muted);
   margin: 0;
 }
 
@@ -79,25 +79,26 @@
 }
 
 /* 5. ANIMATIONS  */
-.spore {
+/* Smoke puffs rising from the smokestacks */
+.puff {
   position: absolute;
-  width: 6px;
-  height: 6px;
+  width: 8px;
+  height: 8px;
   background-color: #ffffff;
   opacity: 0;
-  box-shadow: 1px 0 0 var(--shroom-text), 0 1px 0 var(--shroom-text), 1px 1px 0 var(--shroom-text); 
+  box-shadow: 1px 0 0 var(--inlp-shadow), 0 1px 0 var(--inlp-shadow), 1px 1px 0 var(--inlp-shadow);
 }
 
-.spore-1 { left: 60%; bottom: 30%; animation: drift 6s linear infinite; animation-delay: 0s; }
-.spore-2 { left: 75%; bottom: 40%; animation: drift 7s linear infinite; animation-delay: 2s; }
-.spore-3 { left: 85%; bottom: 25%; animation: drift 5.5s linear infinite; animation-delay: 4s; }
-.spore-4 { left: 30%; bottom: 25%; animation: drift 5.5s linear infinite; animation-delay: 4s; }
+.puff-1 { left: 48%; bottom: 70%; animation: rise 6s linear infinite; animation-delay: 0s; }
+.puff-2 { left: 62%; bottom: 78%; animation: rise 7s linear infinite; animation-delay: 2s; }
+.puff-3 { left: 48%; bottom: 70%; animation: rise 5.5s linear infinite; animation-delay: 3s; }
+.puff-4 { left: 62%; bottom: 78%; animation: rise 5.5s linear infinite; animation-delay: 4.5s; }
 
-@keyframes drift {
+@keyframes rise {
   0% { transform: translateY(0) translateX(0); opacity: 0; }
-  20% { opacity: 0.7; }
-  80% { opacity: 0.5; }
-  100% { transform: translateY(-50px) translateX(10px); opacity: 0; }
+  20% { opacity: 0.8; }
+  80% { opacity: 0.4; }
+  100% { transform: translateY(-60px) translateX(14px); opacity: 0; }
 }
 
 .cloud-move {
@@ -108,65 +109,34 @@
   animation: bounce-cloud 5s ease-in-out infinite;
 }
 
-.sun-rays {
+.gear-spin {
   transform-origin: 32px 32px;
-  animation: sun-spin 168s linear infinite;
+  animation: gear-rotate 168s linear infinite;
 }
 
 @keyframes move-cloud {
   0% { transform: translateX(0); }
-  50% { transform: translateX(100px); } 
+  50% { transform: translateX(100px); }
   100% { transform: translateX(-50px); }
 }
 
 @keyframes bounce-cloud {
   0%,100% { transform: translateY(0); }
   50%     { transform: translateY(-10px); }
-}  
+}
 
-/* --- Animations --- */
-.mushroom-group {
+/* --- Factory --- */
+.factory-group {
   animation: gentle-bob 4s ease-in-out infinite;
   transform-origin: bottom center;
 }
 
 @keyframes gentle-bob {
   0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-4px); } /* Only 4px, barely noticeable but alive */
+  50% { transform: translateY(-3px); } /* barely noticeable but alive */
 }
 
-@keyframes move-across {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(30px); } /* Gentle breathing drift instead of flying across */
-  100% { transform: translateX(0); }
-}
-
-.flower-cap2 {
-  animation: bounce 3s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-6px); }
-}
-
-
-.flower-cap {
-  animation: flower-sway 4s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes flower-sway {
-  0%   { transform: translateX(0px); }
-  25%  { transform: translateX(3px); }
-  50%  { transform: translateX(0px); }
-  75%  { transform: translateX(-2px); }
-  100% { transform: translateX(0px); }
-}
-
-
-@keyframes sun-spin {
+@keyframes gear-rotate {
   from {
     transform: rotate(0deg);
   }
@@ -182,7 +152,7 @@
   }
   .banner-text-area {
     text-align: center;
-    padding: 2rem 2rem 0 2rem; 
+    padding: 2rem 2rem 0 2rem;
   }
 
   .banner-text-area h2 {
@@ -198,5 +168,3 @@
     margin-top: 1rem;
   }
 }
-
-

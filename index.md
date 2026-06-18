@@ -2,76 +2,103 @@
 layout: default
 ---
 
-{% include pixel_banner.html 
-   title="The *SHROOM Shared Task Series"
-   subtitle="Hallucinations and Related Observable Overgenerations"
+{% include pixel_banner.html
+   title="Workshop for Industrial NLP"
+   subtitle="NLP Research Towards Safety, Reliability, and Real-World Impact"
 %}
 
-# Welcome to the *SHROOM Shared-Task Series on Hallucinations and Related Observable Overgeneration Mistakes
-The SHROOM shared task series brings together researchers and practitioners interested in detecting hallucinations — that is, fluent yet semantically incorrect or unsupported outputs — in natural language generation (NLG) systems. Since 2024, we've been pushing the boundaries of automatic hallucination detection, with each edition introducing new challenges and innovations.
+# Workshop for Industrial NLP
 
-This website serves as a central hub to explore the current and past editions of the shared task, including SHROOM (2024), Mu-SHROOM (2025), and the upcoming ν-SHROOM (2026).
+**Co-located with [INLG 2026](https://genintro.github.io/INLG2026/) · Half-Day Workshop**
 
---- 
+Welcome to the first **Workshop for Industrial NLP**, a half-day workshop at INLG 2026 dedicated to natural language generation (NLG) and large language model (LLM) research shaped by real deployment settings.
 
-## Explore the tasks
+By *industrial NLP*, we mean NLP and NLG research driven by the realities of production: deployment constraints, domain-specific risks, user-facing applications, business and public-sector workflows, and the need for **measurable reliability beyond benchmark performance**.
 
-### [SHROOM-visions 2026](/shroom/2026)
-<img id="logo2026" style="width:25%; min-width:150px; margin-right:25px; float:right" alt="Shroom-visions" title="Shroom-visions logo" align="left">
+Recent progress in generative NLP has accelerated industrial adoption across customer support, content generation, finance, cybersecurity, education, healthcare, software engineering, and multilingual communication. Yet deployed systems expose limitations that standard benchmarks often miss: hallucination, inconsistent behavior, prompt sensitivity, safety failures, bias, privacy risks, insufficient domain adaptation, and weak evaluation protocols. This workshop brings together researchers and practitioners working on NLG, LLMs, evaluation, safety, fairness, multilingual NLP, and deployed applications, with the goal of supporting industrial systems that are **reliable, accountable, robust, and useful** in real-world environments.
 
-**Shroom-visions** is the fourth iteration of the SHROOM series, hosted at the [UncertainLP Workshop](https://uncertainlp.github.io/) (co-located with EMNLP 2026). This edition tackles hallucinations in vision-language models. 
-
-With it we provide a dataset for hallucination detection in image-conditioned text generation (VQA, image captioning, etc.). and a a four-class taxonomy for hallucinaiton occurences in a multilingual setup (Chinese, English, French, Italian).
-
-🔗 [Explore Shroom-visions 2026](/shroom/2026)
+🔗 **[Read the full Call for Papers →](./cfp)**
 
 ---
 
-### [SHROOM-CAP Shared Task 2025](/shroom/2025a)
-<img style="width:20%; min-width:150px; margin-left:25px; float:right" src="assets/img/shroom-cap-blue+text.png" alt="SHROOM-CAP" title="SHROOM-CAP logo" align="right">
+## Objectives
 
-**SHROOM-CAP** is the third edition of the shared task, held at [CHOMPS-2025](https://chomps2025.github.io/). This cross-lingual extension of SHROOM expands the scope to high and low resource languages with the special focus to indic languages. This time, the task targets hallucination in scientific domain — asking participants to predict if there is scienific hallucinations or not and how likely they are.
-
-🔗 [Explore SHROOM-CAP Shared Task](/shroom/2025a)
-
----
-
-### [Mu-SHROOM 2025](/shroom/2025)
-<img style="width:20%; min-width:150px; margin-right:25px; float:left" src="assets/img/mu-shroom-logo.png" alt="Mu-SHROOM" title="SHROOM logo" align="left">
-
-**Mu-SHROOM** is the second edition of the shared task, held at [SemEval-2025](https://semeval.github.io/SemEval2025/). This multilingual extension of SHROOM expands the scope to 14 languages and shifts the focus to instruction-tuned large language models (LLMs). Morevoer, in Mu-SHROOM we target hallucination **spans** at the character level!
-
-🔗 [Explore Mu-SHROOM 2025](/shroom/2025)
+- Create a focused venue for NLG work on safety, reliability, evaluation, and industrial deployment.
+- Encourage dialogue between academic researchers and industry practitioners about practical failure modes and realistic evaluation needs.
+- Highlight methods for making generated text more controllable, trustworthy, fair, multilingual, and domain-robust.
+- Identify open research directions where INLG can contribute to responsible and high-impact NLP systems.
 
 ---
 
-### [SHROOM 2024](/shroom/2024)
-<img style="width:30%; min-width:150px; margin-left:25px; float:right" src="assets/img/shroom-logo.png" alt="SHROOM logo" title="SHROOM logo" align="right">
+## Important Dates
 
-**SHROOM** is the OG Shared-task on Hallucinations and Related Observable Overgeneration Mistakes. We kicked off the initiative at [SemEval-2024](https://semeval.github.io/SemEval2024/). Participants were asked to identify hallucinated content in NLG outputs across several generation tasks (e.g., machine translation, paraphrasing, definition modeling), both with and without access to the model that generated the outputs.
+| Milestone | Date |
+|---|---|
+| Submission deadline | **1 August 2026** |
+| Notification of acceptance | **1 September 2026** |
+| Camera-ready due | **16 September 2026** |
+| Workshop | **At INLG 2026** |
 
-🔗 [Go to the SHROOM 2024 website](/shroom/2024)
-
----
-
-## 👥🙌🌐 Join the SHROOM Community 
-
-Whether you're interested in joining the next round, learning from past editions, or just staying informed about hallucination detection in NLG, we'd love to have you in the community.
-
-- Join the conversation on [Slack](https://join.slack.com/t/shroom-shared-task/shared_invite/zt-2mmn4i8h2-HvRBdK5f4550YHydj5lpnA)
-- Check out the past editions Google gorups
-  - [SHROOM-visions 2026](https://groups.google.com/g/shroom-visions/)
-  - [SHROOM-CAP 2025](https://groups.google.com/g/shroomcap) 
-  - [Mu-SHROOM 2025](https://groups.google.com/g/semeval-2025-task-3-mu-shroom)
-  - [Mu-SHROOM 2024](https://groups.google.com/g/semeval-2024-task-6-shroom)
+*All deadlines follow the INLG suggested schedule. Times are end-of-day (anywhere on Earth) unless otherwise noted.*
 
 ---
 
-### 🧪 Want to dive straight in? 
-Visit one of the task pages above and start exploring data, baselines, and results.
+## Call for Papers
 
-Reach out if you have further questions, collaboration ideas or simply want to say hi:
-- [Timothee Mickus](https://timotheemickus.github.io/), 
-University of Helsinki, Finland
-- [Raúl Vázquez](https://jrvc.github.io/), 
-University of Helsinki, Finland
+We solicit **short papers, extended abstracts, position papers, and industrial case studies**. Authors may choose **archival or non-archival** submission, making the workshop suitable both for mature research and for emerging industrial case studies.
+
+Topics of interest include industrial applications of NLG/LLMs, deployment constraints, evaluation in practice, domain adaptation, reliability and factuality, controllable generation, multilingual and domain-robust systems, and responsible deployment.
+
+🔗 **[See the full Call for Papers, topics, and submission details →](./cfp)**
+
+---
+
+## Program
+
+The workshop is a half-day event combining invited talks, contributed presentations, posters, and discussion. The tentative program is:
+
+| Session | Length | Format and purpose |
+|---|---|---|
+| Opening and framing | 5 min | Workshop goals, scope, and links to the INLG community. |
+| Invited perspectives | 60 min | Three invited talks (15 min + 5 min discussion each) covering safety, reliability, and industrial deployment. |
+| Research spotlights | 30 min | Four to eight accepted papers/abstracts, each presented as a 5-minute spotlight to maximize participation. |
+| Poster and coffee discussion | 35 min | Interactive discussion of accepted work, with space for authors, invited speakers, and participants to exchange feedback. |
+| Panel discussion | 25 min | A concise moderated panel (4–5 panelists) on evaluation failures, responsible deployment, and industry–academia collaboration. |
+| Closing discussion | 5 min | Shared takeaways, follow-up activities, and possible future editions. |
+
+---
+
+## Invited Speakers
+
+*Invited speakers will be finalized after acceptance. Current line-up:*
+
+- **Chenyang Lyu** (Alibaba) — *confirmed*
+- **Lei Yu** (Meta) — *confirmed*
+- **Danushka Bollegala** (University of Liverpool / Amazon) — *confirmed*
+- **Yinghao Ma** (Queen Mary University of London) — *confirmed*
+- **Asahi Ushio** (Google DeepMind) — *tentative*
+- **Yulong Pei** (ADIA / TU Eindhoven) — *tentative*
+- **Luis Espinosa Anke** (applied NLP) — *tentative*
+- **Francesco Barbieri** (Meta) — *tentative*
+
+Together they span industrial NLP, safety, fairness, multilinguality, finance, cybersecurity, and applied NLG.
+
+---
+
+## Organizers
+
+- **Yizhi Li** — University of Manchester *(reasoning and CLI agents)*
+- **Yi Zhou** — Cardiff University *(responsible AI)*
+- **Jingcheng Niu** — TU Darmstadt *(mechanistic interpretability)*
+- **Haau-Sing Li** — TU Darmstadt and Instituto de Telecomunicações *(code generation and test-time compute)*
+- **Joanne Boisson** — Cardiff University *(social NLP and metaphor)*
+- **Yi Qi** — University of Leeds *(safety assurance and trustworthy AI)*
+- **Jie Fu** — IQuest Research *(safety)*
+
+---
+
+## Contact
+
+Updates, submission instructions, and the submission portal will be posted on this website. The call is circulated through SIGGEN, ACL mailing lists, social media, and relevant academic and industry networks.
+
+*We look forward to your submissions and to a focused discussion of how NLG research can shape the next generation of deployed NLP systems.*

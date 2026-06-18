@@ -1,29 +1,28 @@
-# SHROOM-Visions
-Shared task at UncertainNLP-2026
+# Workshop for Industrial NLP
 
-**website:** [https://helsinki-nlp.github.io/shroom/2026](https://helsinki-nlp.github.io/shroom/2026)
+**NLP Research Towards Safety, Reliability, and Real-World Impact**
 
-# Previous iteration of the shared task
+A half-day workshop co-located with **INLG 2026**.
 
-## SHROOM-CAP
-Shared task at CHOMPS
+**Website:** [https://industrialnlp.github.io](https://industrialnlp.github.io)
 
-**website:** [https://helsinki-nlp.github.io/shroom/2025a](https://helsinki-nlp.github.io/shroom/2025a)
+This repository hosts the workshop website, built with Jekyll and GitHub Pages.
 
-## Mu-SHROOM
-SemEval-2025 Task-3 - Mu-SHROOM, the Multilingual Shared-task on Hallucinations and Related Observable Overgeneration Mistakes  
-Part of the 19th International Workshop on Semantic Evaluation (SemEval 2025).
+## Pages
 
-<!-- Task: Mu-SHROOM participants will need to detect grammatically sound output that contains incorrect semantic information (i.e. unsupported or inconsistent with the source input), with or without having access to the model that produced the output. -->
+- `index.md` — workshop home (overview, dates, program, speakers, organizers)
+- `cfp.md` — full Call for Papers
 
-**website:** [https://helsinki-nlp.github.io/shroom/2025](https://helsinki-nlp.github.io/shroom/2025) 
+## Key dates
 
-## SHROOM
-SemEval-2024 Task-6 - SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes  
-Part of the 18th International Workshop on Semantic Evaluation (SemEval 2024).
+- Submission deadline: **1 August 2026**
+- Notification of acceptance: **1 September 2026**
+- Camera-ready due: **16 September 2026**
+- Workshop: at INLG 2026
 
-<!--- Task: SHROOM participants will need to detect grammatically sound output that contains incorrect semantic information (i.e. unsupported or inconsistent with the source input), with or without having access to the model that produced the output. --->
+## Local development
 
-**website:** [https://helsinki-nlp.github.io/shroom/2024](https://helsinki-nlp.github.io/shroom/2024) 
-
-<!-- Join the mailing group: [semeval-2024-task-6-shroom@googlegroups.com](https://groups.google.com/u/1/g/semeval-2024-task-6-shroom) -->
+```bash
+bundle install
+bundle exec jekyll serve
+```

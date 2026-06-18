@@ -47,9 +47,17 @@ Recent progress in generative NLP has accelerated industrial adoption across cus
 
 We solicit **short papers, extended abstracts, position papers, and industrial case studies**. Authors may choose **archival or non-archival** submission, making the workshop suitable both for mature research and for emerging industrial case studies.
 
-Topics of interest include industrial applications of NLG/LLMs, deployment constraints, evaluation in practice, domain adaptation, reliability and factuality, controllable generation, multilingual and domain-robust systems, and responsible deployment.
+Submissions are invited under seven tracks:
 
-🔗 **[See the full Call for Papers, topics, and submission details →](./cfp)**
+1. **Safety & Security**
+2. **Reliability & Fairness**
+3. **Efficiency**
+4. **Industrial Applications & Deployment** *(e.g. medicine, finance, cybersecurity)*
+5. **Evaluation, Datasets & Benchmarks**
+6. **NLP for Social Good & Real-World Impact**
+7. **Negative Impacts & Their Mitigations**
+
+🔗 **[See the full Call for Papers, tracks, and submission details →](./cfp)**
 
 ---
 

@@ -30,18 +30,30 @@ This workshop brings together researchers and practitioners working on NLG, LLMs
 - Highlight methods for making generated text more controllable, trustworthy, fair, multilingual, and domain-robust.
 - Identify open research directions where INLG can contribute to responsible and high-impact NLP systems.
 
-## Topics of Interest
+## Submission Tracks
 
-We welcome **short papers, extended abstracts, position papers, and industrial case studies** on topics including, but not limited to:
+We welcome **short papers, extended abstracts, position papers, and industrial case studies**. To organize review and discussion around the realities of deployed systems, submissions are invited under the following tracks. Tracks are non-exclusive — choose the one that best fits your work, and topics within each are indicative rather than exhaustive.
 
-- **Industrial applications** of NLG/LLMs in finance, cybersecurity, healthcare, education, search, assistants, customer support, and content platforms.
-- **Deployment constraints** for NLP systems, including latency, cost, scalability, privacy, compliance, and maintainability.
-- **Evaluation in practice**: evaluation pipelines, monitoring, incident analysis, and post-deployment quality assurance for generated text.
-- **Domain adaptation**: data quality, customization, and integration with enterprise or public-sector workflows.
-- **Reliability**: factuality, hallucination detection, calibration, and uncertainty in deployed NLG systems.
-- **Controllable generation**: human feedback and human-in-the-loop workflows for industrial use cases.
-- **Multilingual, cross-cultural, and domain-robust** NLP systems for real users.
-- **Responsible deployment**: safety, fairness, bias, and toxicity in high-impact applications.
+### 1. Safety & Security
+Content safety, toxicity, and harmful-output mitigation; adversarial robustness, jailbreaks, and prompt injection; guardrails and moderation; privacy, PII leakage, and data protection; security of NLP supply chains and tooling; compliance with safety regulations and standards.
+
+### 2. Reliability & Fairness
+Factuality, hallucination detection, and grounding; calibration, uncertainty, and abstention; consistency, prompt-sensitivity, and robustness to distribution shift; bias, fairness, and equitable behavior across users, dialects, and demographics; trustworthy and accountable generation.
+
+### 3. Efficiency
+Latency-, cost-, and memory-aware NLG; model compression, distillation, quantization, and pruning; efficient inference, caching, and serving at scale; small, on-device, and edge-deployable models; sustainable and energy-aware NLP.
+
+### 4. Industrial Applications & Deployment
+NLG/LLM systems in production across domains — including medicine and healthcare, finance, cybersecurity, law, education, search, assistants, customer support, and content platforms. Deployment constraints (scalability, maintainability, integration); domain adaptation and customization; monitoring, incident analysis, and LLMOps; integration with enterprise and public-sector workflows.
+
+### 5. Evaluation, Datasets & Benchmarks
+Evaluation *in context*: pipelines, protocols, and metrics that reflect real deployment; human evaluation and LLM-as-judge methods; post-deployment quality assurance and regression testing; new datasets and benchmarks capturing operational conditions, domain shift, and multilingual/real-user settings.
+
+### 6. NLP for Social Good & Real-World Impact
+NLG/LLM systems built for public-interest and high-benefit outcomes: broadening access through low-resource and multilingual NLP; accessibility; applications in healthcare access, education equity, humanitarian and crisis response, public services, and the environment; participatory and human-centered design with affected communities.
+
+### 7. Negative Impacts & Their Mitigations
+Critical analysis of the harms of deployed generative systems — misuse and dual-use, misinformation, labor and economic effects, environmental cost, and over-reliance — paired with concrete, actionable mitigations. Position papers, audits, incident retrospectives, and responsible-disclosure practices are especially welcome.
 
 ## Submission Types and Archival Options
 

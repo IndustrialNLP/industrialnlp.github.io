@@ -55,7 +55,7 @@ NLG/LLM systems built for public-interest and high-benefit outcomes: broadening 
 ### 7. Negative Impacts & Their Mitigations
 Critical analysis of the harms of deployed generative systems — misuse and dual-use, misinformation, labor and economic effects, environmental cost, and over-reliance — paired with concrete, actionable mitigations. Position papers, audits, incident retrospectives, and responsible-disclosure practices are especially welcome.
 
-## Submission Types and Archival Options
+## Submission Types and Format
 
 We solicit:
 
@@ -64,7 +64,9 @@ We solicit:
 - Position papers
 - Industrial case studies
 
-Authors may choose **archival or non-archival** submission. This makes the workshop suitable both for mature research and for emerging industrial case studies that cannot yet be published as full archival papers.
+All submissions to the workshop are **non-archival**: accepted contributions are presented at the workshop as spotlights and posters, but are not published in the ACL Anthology proceedings. This makes the workshop suitable both for mature research and for emerging industrial case studies that cannot yet be published as full archival papers, and it welcomes work in progress as well as work published or under review elsewhere.
+
+Following the [INLG 2026 call for papers](https://2026.inlgmeeting.org/calls.html), submissions should use the official **ACL LaTeX/Word style files** and follow the **ACL Author Guidelines**. Short papers may be up to **4 pages** of content, with unlimited additional pages for references, ethics/limitations, and supplementary material statements; extended abstracts, position papers, and industrial case studies should likewise not exceed 4 pages of content. Submissions must be **anonymised for double-blind review**, and should follow the **ACL Code of Ethics**, discussing any ethical considerations explicitly and including a data availability statement for experimental work.
 
 We realistically expect 20–45 submissions and plan to accept around 10–20 contributions, with most presented as short spotlights plus posters.
 

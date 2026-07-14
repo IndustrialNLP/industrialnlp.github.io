@@ -68,6 +68,8 @@ All submissions to the workshop are **non-archival**: accepted contributions are
 
 Following the [INLG 2026 call for papers](https://2026.inlgmeeting.org/calls.html), submissions should use the official **ACL LaTeX/Word style files** and follow the **ACL Author Guidelines**. Short papers may be up to **4 pages** of content, with unlimited additional pages for references, ethics/limitations, and supplementary material statements; extended abstracts, position papers, and industrial case studies should likewise not exceed 4 pages of content. Submissions must be **anonymised for double-blind review**, and should follow the **ACL Code of Ethics**, discussing any ethical considerations explicitly and including a data availability statement for experimental work.
 
+Submissions are made through OpenReview: **[Industrial NLP @ INLG 2026 — ARR Commitment](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/Industrial_NLP_ARR_Commitment#tab-your-consoles)**.
+
 We realistically expect 20–45 submissions and plan to accept around 10–20 contributions, with most presented as short spotlights plus posters.
 
 ## Important Dates

@@ -34,8 +34,8 @@ Recent progress in generative NLP has accelerated industrial adoption across cus
 
 | Milestone | Date |
 |---|---|
-| Submission deadline | **1 August 2026** |
-| Notification of acceptance | **1 September 2026** |
+| Submission deadline (direct submission and ARR commitment) | **16 August 2026** |
+| Notification of acceptance | **29 August 2026** |
 | Camera-ready due | **16 September 2026** |
 | Workshop | **At INLG 2026** |
 

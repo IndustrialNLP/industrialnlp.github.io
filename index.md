@@ -82,12 +82,8 @@ The workshop is a half-day event combining invited talks, contributed presentati
 
 - **Chenyang Lyu** (Alibaba) — *confirmed*
 - **Lei Yu** (Meta) — *confirmed*
-- **Danushka Bollegala** (University of Liverpool / Amazon) — *confirmed*
 - **Yinghao Ma** (Queen Mary University of London) — *confirmed*
-- **Asahi Ushio** (Google DeepMind) — *tentative*
 - **Yulong Pei** (ADIA / TU Eindhoven) — *tentative*
-- **Luis Espinosa Anke** (applied NLP) — *tentative*
-- **Francesco Barbieri** (Meta) — *tentative*
 
 Together they span industrial NLP, safety, fairness, multilinguality, finance, cybersecurity, and applied NLG.
 

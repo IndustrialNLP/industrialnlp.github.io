@@ -11,7 +11,7 @@ layout: default
 
 ## Workshop for Industrial NLP: NLP Research Towards Safety, Reliability, and Real-World Impact
 
-**Co-located with [INLG 2026](https://genintro.github.io/INLG2026/) · Half-Day Workshop**
+**Co-located with [INLG 2026](https://2026.inlgmeeting.org/) · Half-Day Workshop**
 
 ---
 
@@ -76,8 +76,9 @@ We realistically expect 20–45 submissions and plan to accept around 10–20 co
 
 | Milestone | Date |
 |---|---|
-| Submission deadline (direct submission and ARR commitment) | **16 August 2026** |
-| Notification of acceptance | **29 August 2026** |
+| Direct submission deadline | **16 August 2026** |
+| ARR commitment deadline | **29 August 2026** |
+| Notification of acceptance | **9 September 2026** |
 | Camera-ready due | **16 September 2026** |
 | Workshop | At INLG 2026 |
 

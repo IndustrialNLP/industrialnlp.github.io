@@ -9,7 +9,7 @@ layout: default
 
 # Workshop for Industrial NLP
 
-**Co-located with [INLG 2026](https://genintro.github.io/INLG2026/) · Half-Day Workshop**
+**Co-located with [INLG 2026](https://2026.inlgmeeting.org/) · Half-Day Workshop**
 
 Welcome to the first **Workshop for Industrial NLP**, a half-day workshop at INLG 2026 dedicated to natural language generation (NLG) and large language model (LLM) research shaped by real deployment settings.
 
@@ -34,8 +34,9 @@ Recent progress in generative NLP has accelerated industrial adoption across cus
 
 | Milestone | Date |
 |---|---|
-| Submission deadline (direct submission and ARR commitment) | **16 August 2026** |
-| Notification of acceptance | **29 August 2026** |
+| Direct submission deadline | **16 August 2026** |
+| ARR commitment deadline | **29 August 2026** |
+| Notification of acceptance | **9 September 2026** |
 | Camera-ready due | **16 September 2026** |
 | Workshop | **At INLG 2026** |
 

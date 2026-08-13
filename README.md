@@ -15,8 +15,9 @@ This repository hosts the workshop website, built with Jekyll and GitHub Pages.
 
 ## Key dates
 
-- Submission deadline (direct submission and ARR commitment): **16 August 2026**
-- Notification of acceptance: **29 August 2026**
+- Direct submission deadline: **16 August 2026**
+- ARR commitment deadline: **29 August 2026**
+- Notification of acceptance: **9 September 2026**
 - Camera-ready due: **16 September 2026**
 - Workshop: at INLG 2026
 

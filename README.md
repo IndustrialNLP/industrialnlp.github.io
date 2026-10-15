@@ -2,7 +2,7 @@
 
 **NLP Research Towards Safety, Reliability, and Real-World Impact**
 
-A half-day workshop co-located with **INLG 2026**.
+A half-day workshop on **17 October 2026**, co-located with **INLG 2026**.
 
 **Website:** [https://industrialnlp.github.io](https://industrialnlp.github.io)
 
@@ -19,7 +19,7 @@ This repository hosts the workshop website, built with Jekyll and GitHub Pages.
 - ARR commitment deadline: **29 August 2026**
 - Notification of acceptance: **9 September 2026**
 - Camera-ready due: **16 September 2026**
-- Workshop: at INLG 2026
+- Workshop: **17 October 2026**
 
 ## Local development
 

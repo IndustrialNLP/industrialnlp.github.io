@@ -9,7 +9,7 @@ layout: default
 
 # Workshop for Industrial NLP
 
-**Co-located with [INLG 2026](https://2026.inlgmeeting.org/) · Half-Day Workshop**
+**17 October 2026 · Co-located with [INLG 2026](https://2026.inlgmeeting.org/) · Half-Day Workshop**
 
 Welcome to the first **Workshop for Industrial NLP**, a half-day workshop at INLG 2026 dedicated to natural language generation (NLG) and large language model (LLM) research shaped by real deployment settings.
 
@@ -38,7 +38,7 @@ Recent progress in generative NLP has accelerated industrial adoption across cus
 | ARR commitment deadline | **29 August 2026** |
 | Notification of acceptance | **9 September 2026** |
 | Camera-ready due | **16 September 2026** |
-| Workshop | **At INLG 2026** |
+| Workshop | **17 October 2026** |
 
 *All deadlines follow the INLG suggested schedule. Times are end-of-day (anywhere on Earth) unless otherwise noted.*
 
@@ -64,14 +64,14 @@ Submissions are invited under seven tracks:
 
 ## Program
 
-The workshop is a half-day event combining invited talks, contributed presentations, posters, and discussion. The tentative program is:
+The workshop will take place on **17 October 2026** as a half-day event combining invited talks, contributed talks, and discussion. All accepted contributions will be presented as talks. The tentative program is:
 
 | Session | Length | Format and purpose |
 |---|---|---|
 | Opening and framing | 5 min | Workshop goals, scope, and links to the INLG community. |
 | Invited perspectives | 60 min | Three invited talks (15 min + 5 min discussion each) covering safety, reliability, and industrial deployment. |
-| Research spotlights | 30 min | Four to eight accepted papers/abstracts, each presented as a 5-minute spotlight to maximize participation. |
-| Poster and coffee discussion | 35 min | Interactive discussion of accepted work, with space for authors, invited speakers, and participants to exchange feedback. |
+| Contributed talks | TBD | All accepted papers/abstracts will be presented as talks. Talk lengths and the final schedule will be confirmed once the number of accepted contributions is known. |
+| Coffee break and discussion | 35 min | Informal discussion, with space for authors, invited speakers, and participants to exchange feedback. |
 | Panel discussion | 25 min | A concise moderated panel (4–5 panelists) on evaluation failures, responsible deployment, and industry–academia collaboration. |
 | Closing discussion | 5 min | Shared takeaways, follow-up activities, and possible future editions. |
 
@@ -81,10 +81,9 @@ The workshop is a half-day event combining invited talks, contributed presentati
 
 *Invited speakers will be finalized after acceptance. Current line-up:*
 
-- **Chenyang Lyu** (Alibaba) — *confirmed*
-- **Lei Yu** (Meta) — *confirmed*
+- **Gerald Penn** (University of Toronto) — *confirmed*
 - **Yinghao Ma** (Queen Mary University of London) — *confirmed*
-- **Yulong Pei** (ADIA / TU Eindhoven) — *tentative*
+- **[Yi Dong](https://intranet.csc.liv.ac.uk/~yidong/)** (University of Liverpool) — *confirmed*
 
 Together they span industrial NLP, safety, fairness, multilinguality, finance, cybersecurity, and applied NLG.
 

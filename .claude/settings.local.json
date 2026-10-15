@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git rm *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(cd *)",
+      "Bash(git push *)",
+      "Bash(gh api *)",
+      "Bash(curl -sS -o /dev/null -w \"HTTP %{http_code}\\\\n\" https://industrialnlp.github.io/)",
+      "Bash(curl -sS -o /dev/null -w \"HTTP %{http_code}\\\\n\" https://industrialnlp.github.io/cfp)",
+      "Bash(curl -sSI https://industrialnlp.github.io/)",
+      "WebFetch(domain:2026.inlgmeeting.org)"
+    ]
+  }
+}

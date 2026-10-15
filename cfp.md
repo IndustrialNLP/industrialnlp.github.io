@@ -11,7 +11,7 @@ layout: default
 
 ## Workshop for Industrial NLP: NLP Research Towards Safety, Reliability, and Real-World Impact
 
-**Co-located with [INLG 2026](https://2026.inlgmeeting.org/) · Half-Day Workshop**
+**17 October 2026 · Co-located with [INLG 2026](https://2026.inlgmeeting.org/) · Half-Day Workshop**
 
 ---
 
@@ -64,13 +64,13 @@ We solicit:
 - Position papers
 - Industrial case studies
 
-All submissions to the workshop are **non-archival**: accepted contributions are presented at the workshop as spotlights and posters, but are not published in the ACL Anthology proceedings. This makes the workshop suitable both for mature research and for emerging industrial case studies that cannot yet be published as full archival papers, and it welcomes work in progress as well as work published or under review elsewhere.
+All submissions to the workshop are **non-archival**: all accepted contributions are presented at the workshop as talks, but are not published in the ACL Anthology proceedings. This makes the workshop suitable both for mature research and for emerging industrial case studies that cannot yet be published as full archival papers, and it welcomes work in progress as well as work published or under review elsewhere.
 
 Following the [INLG 2026 call for papers](https://2026.inlgmeeting.org/calls.html), submissions should use the official **ACL LaTeX/Word style files** and follow the **ACL Author Guidelines**. Short papers may be up to **4 pages** of content, with unlimited additional pages for references, ethics/limitations, and supplementary material statements; extended abstracts, position papers, and industrial case studies should likewise not exceed 4 pages of content. Submissions must be **anonymised for double-blind review**, and should follow the **ACL Code of Ethics**, discussing any ethical considerations explicitly and including a data availability statement for experimental work.
 
 Submissions are made through OpenReview: **[Industrial NLP @ INLG 2026 — direct submission](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/Industrial_NLP)**. You can also submit via the **[ARR Commitment track](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/Industrial_NLP_ARR_Commitment#tab-your-consoles)**.
 
-We realistically expect 20–45 submissions and plan to accept around 10–20 contributions, with most presented as short spotlights plus posters.
+We realistically expect 20–45 submissions and plan to accept around 10–20 contributions, with all accepted contributions presented as talks.
 
 ## Important Dates
 
@@ -80,20 +80,20 @@ We realistically expect 20–45 submissions and plan to accept around 10–20 co
 | ARR commitment deadline | **29 August 2026** |
 | Notification of acceptance | **9 September 2026** |
 | Camera-ready due | **16 September 2026** |
-| Workshop | At INLG 2026 |
+| Workshop | **17 October 2026** |
 
 *All deadlines follow the INLG suggested schedule. Times are end-of-day (anywhere on Earth) unless otherwise noted.*
 
 ## Format
 
-The workshop is a half-day event combining invited talks, contributed presentations, posters, and discussion. The tentative program is:
+The workshop will take place on **17 October 2026** as a half-day event combining invited talks, contributed talks, and discussion. All accepted contributions will be presented as talks. The tentative program is:
 
 | Session | Length | Format and purpose |
 |---|---|---|
 | Opening and framing | 5 min | Workshop goals, scope, and links to the INLG community. |
 | Invited perspectives | 60 min | Three invited talks (15 min + 5 min discussion each) covering safety, reliability, and industrial deployment. |
-| Research spotlights | 30 min | Four to eight accepted papers/abstracts, each presented as a 5-minute spotlight to maximize participation. |
-| Poster and coffee discussion | 35 min | Interactive discussion of accepted work, with space for authors, invited speakers, and participants to exchange feedback. |
+| Contributed talks | TBD | All accepted papers/abstracts will be presented as talks. Talk lengths and the final schedule will be confirmed once the number of accepted contributions is known. |
+| Coffee break and discussion | 35 min | Informal discussion, with space for authors, invited speakers, and participants to exchange feedback. |
 | Panel discussion | 25 min | A concise moderated panel (4–5 panelists) on evaluation failures, responsible deployment, and industry–academia collaboration. |
 | Closing discussion | 5 min | Shared takeaways, follow-up activities, and possible future editions. |
 
@@ -117,10 +117,9 @@ A key audience is **industrial NLP practitioners** who deploy or evaluate genera
 
 *Invited speakers will be finalized after acceptance. Current candidates include:*
 
-- Chenyang Lyu (Alibaba) — *confirmed*
-- Lei Yu (Meta) — *confirmed*
+- Gerald Penn (University of Toronto) — *confirmed*
 - Yinghao Ma (Queen Mary University of London) — *confirmed*
-- Yulong Pei (ADIA / TU Eindhoven) — *tentative*
+- [Yi Dong](https://intranet.csc.liv.ac.uk/~yidong/) (University of Liverpool) — *confirmed*
 
 Together they span industrial NLP, safety, fairness, multilinguality, finance, cybersecurity, and applied NLG.
 

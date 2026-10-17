@@ -86,16 +86,18 @@ We realistically expect 20–45 submissions and plan to accept around 10–20 co
 
 ## Format
 
-The workshop will take place on **17 October 2026** as a half-day event combining invited talks, contributed talks, and discussion. All accepted contributions will be presented as talks. The tentative program is:
+The workshop takes place on **17 October 2026, 13:30–17:00**, combining keynotes, paper presentations, and discussion. The program is:
 
-| Session | Length | Format and purpose |
-|---|---|---|
-| Opening and framing | 5 min | Workshop goals, scope, and links to the INLG community. |
-| Invited perspectives | 60 min | Three invited talks (15 min + 5 min discussion each) covering safety, reliability, and industrial deployment. |
-| Contributed talks | TBD | All accepted papers/abstracts will be presented as talks. Talk lengths and the final schedule will be confirmed once the number of accepted contributions is known. |
-| Coffee break and discussion | 35 min | Informal discussion, with space for authors, invited speakers, and participants to exchange feedback. |
-| Panel discussion | 25 min | A concise moderated panel (4–5 panelists) on evaluation failures, responsible deployment, and industry–academia collaboration. |
-| Closing discussion | 5 min | Shared takeaways, follow-up activities, and possible future editions. |
+| Time | Session | Duration | Format |
+|---|---|---|---|
+| 13:30–13:35 | Opening | 5 min | Welcome and introduction. |
+| 13:35–14:15 | Keynote 1 | 40 min | 30 min talk + 10 min Q&A. |
+| 14:15–15:00 | Papers 1–3 | 45 min | Each paper: 12 min talk + 3 min Q&A. |
+| 15:00–15:25 | Coffee break | 25 min | Informal discussion. |
+| 15:25–16:05 | Keynote 2 | 40 min | Invited talk. |
+| 16:05–16:50 | Papers 4–6 | 45 min | Each paper: 12 min talk + 3 min Q&A. |
+| 16:50–17:00 | Closing remarks | 10 min | Summary and takeaways. |
+| 17:00 | End | — | — |
 
 ## Who Should Submit
 

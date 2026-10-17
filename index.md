@@ -69,10 +69,10 @@ The workshop takes place on **17 October 2026, 13:30–17:00**, combining keynot
 | Time | Session | Duration | Format |
 |---|---|---|---|
 | 13:30–13:35 | Opening | 5 min | Welcome and introduction. |
-| 13:35–14:15 | Keynote 1 | 40 min | 30 min talk + 10 min Q&A. |
+| 13:35–14:15 | Keynote 1: Qing Li | 40 min | 30 min talk + 10 min Q&A. |
 | 14:15–15:00 | Papers 1–3 | 45 min | Each paper: 12 min talk + 3 min Q&A. |
 | 15:00–15:25 | Coffee break | 25 min | Informal discussion. |
-| 15:25–16:05 | Keynote 2 | 40 min | Invited talk. |
+| 15:25–16:05 | Keynote 2: Gerald Penn | 40 min | Invited talk. |
 | 16:05–16:50 | Papers 4–6 | 45 min | Each paper: 12 min talk + 3 min Q&A. |
 | 16:50–17:00 | Closing remarks | 10 min | Summary and takeaways. |
 | 17:00 | End | — | — |
@@ -83,7 +83,8 @@ The workshop takes place on **17 October 2026, 13:30–17:00**, combining keynot
 
 *Invited speakers will be finalized after acceptance. Current line-up:*
 
-- **Gerald Penn** (University of Toronto) — *confirmed*
+- **Qing Li** — *Keynote 1*
+- **Gerald Penn** (University of Toronto) — *Keynote 2*
 - **Yinghao Ma** (Queen Mary University of London) — *confirmed*
 - **[Yi Dong](https://intranet.csc.liv.ac.uk/~yidong/)** (University of Liverpool) — *confirmed*
 
